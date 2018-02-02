@@ -1,0 +1,5 @@
+gym==0.9.5
+numpy==1.14.0
+pybullet==1.8.6
+mpi4py==3.0.0
+cma==2.3.1
